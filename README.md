@@ -1,6 +1,6 @@
 # Desafio  - Isaias Neto
 
-Para abrir a aplicação acesse o link [https://desafio-estantevirtua.herokuapp.com](https://desafio-estantevirtua.herokuapp.com)
+Para abrir a aplicação acesse o link [https://desafio-estantevirtual.herokuapp.com/](https://desafio-estantevirtual.herokuapp.com/)
 
 ## Project setup
 ```
